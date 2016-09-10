@@ -1,8 +1,14 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. Eric Johnson
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+
+2. I have always been fascinated with the analysis capabilities of computers when they are populated with good data and pointed in the right direction.
+  
+3. I have taken courses (college and other) in programming in BASIC, COBOL, Pascal, C++, and little tidbits in Visual Basic and Java.  Outside of the classroom, programming is limited to simple routines, SQL statements, and macros to automated tasks.
+
+4.  I have taken limited (not formal academics) statistics coursework only so as to apply the statistics to metrics and performance/process improvement projects under the umbrella of Lean Six Sigma.
+5.  I have no experiance in R or Python.
+
+6.  I am hoping to use the skills from this program to make better programmatic decisions based on predictive analysis, and eventually find a career specifically in data analysis.
+
+7.  I am 46 years old and live in Onalaska, WI (vic. La Crosse) with my wife and 4 to 5 children, ranging in age from 4 to 17.  I have been working with or for the Army for nearly my entire life.  I spent just over a decade as an active duty intelligence analyst and another dozen years in the reserves.  For the past 15 years I have been a Department of the Army civilian security specialist and the Electronic Security Technical Manager (contractor) for the Army Reserves.
